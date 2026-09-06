@@ -18,7 +18,8 @@ Repositorio con trabajos prácticos, experimentos y desarrollos realizados duran
 
 **Reconocedor de habla de gramática finita**
 
-[Ver informe completo (PDF)](https://github.com/Alex-f98/procHabla20252chabla_2025_corr26.pdf)
+[Ver informe completo (PDF)](https://github.com/Alex-f98/procHabla20252c/blob/main/Procesamiento_del_habla_2025_corr26.pdf)
+
 
 ## Temas Cubiertos
 
